@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landingpage-edralynfrancia/static/css/main.073c9b0a.css",
+    "main.js": "/landingpage-edralynfrancia/static/js/main.be3759e7.js",
+    "static/js/787.a0ab02ab.chunk.js": "/landingpage-edralynfrancia/static/js/787.a0ab02ab.chunk.js",
+    "index.html": "/landingpage-edralynfrancia/index.html",
+    "main.073c9b0a.css.map": "/landingpage-edralynfrancia/static/css/main.073c9b0a.css.map",
+    "main.be3759e7.js.map": "/landingpage-edralynfrancia/static/js/main.be3759e7.js.map",
+    "787.a0ab02ab.chunk.js.map": "/landingpage-edralynfrancia/static/js/787.a0ab02ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.be3759e7.js"
+  ]
+}
